@@ -1,0 +1,7 @@
+changeCause: changes
+containerPort: 5000
+domain: app.demo.domain.tld
+image: nginx
+message: hello world
+namespace: dev
+replicaCount: 3
